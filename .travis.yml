@@ -14,5 +14,5 @@ install:
   - cd ./test/smoke/template
   - npm install -D  #安装模板项目依赖
 
-script
+scripts:
   - npm test
