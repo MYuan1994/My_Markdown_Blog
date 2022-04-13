@@ -1,0 +1,28 @@
+{
+    "code": 0,
+    "data": {
+        "info": {
+            "block_id": 22,
+            "block_title": "web我的课程广告",
+            "block_sub_title": "",
+            "block_icon": "",
+            "product_type": "b1",
+            "more": {},
+            "page": {
+                "more": false,
+                "count": 0,
+                "score": 0,
+                "score0": 0,
+                "hint": ""
+            },
+            "block_type": 0,
+            "block_name": "column_banner_1",
+            "list": []
+        }
+    },
+    "error": {},
+    "extra": {
+        "cost": 0.004310355,
+        "request-id": "867866a0e294a2afd062de1bdc04ba21@2@time"
+    }
+}
