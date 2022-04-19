@@ -22,7 +22,6 @@
     "@babel/preset-react": "^7.0.0",
     "assert": "^2.0.0",
     "babel-eslint": "^10.0.1",
-    "babel-loader": "^8.2.4",
     "cache-loader": "^4.0.1",
     "css-loader": "^2.1.1",
     "eslint": "^5.16.0",
@@ -59,11 +58,11 @@
     "uglifyjs-webpack-plugin": "^2.1.2",
     "url-loader": "^1.1.2",
     "webpack-bundle-analyzer": "^3.3.2",
-    "webpack-cli": "^3.3.2",
-    "webpack-dev-server": "^3.3.1"
+    "webpack-cli": "^3.3.2"
   },
   "dependencies": {
     "autoprefixer": "^9.5.1",
+    "babel-loader": "^8.2.4",
     "babel-polyfill": "^6.26.0",
     "clean-webpack-plugin": "^2.0.2",
     "cssnano": "^4.1.10",
@@ -77,6 +76,7 @@
     "react-redux": "^7.2.8",
     "redux": "^4.1.2",
     "webpack": "^4.31.0",
+    "webpack-dev-server": "^3.3.1",
     "webpack-merge": "^5.8.0"
   }
 }
